@@ -1,0 +1,71 @@
+project_id,project_name,project_start_date,project_end_date,project_status,project_budget,researcher_id,publication_id
+EMP1,Studi Perbandingan Efikasi Analgesik,01-01-2020,04-06-2020,selesai,102019000,EMF1023,EMPUB2012
+EMP2,Pengembangan Formula Antihistamin,22-01-2020,20-01-2021,selesai,182223000,EMF1068,EMPUB2090
+EMP3,Studi Bioekivalensi untuk Obat Generik,12-02-2020,11-05-2020,sedang berlangsung,80641000,EMF1020,EMPUB2075
+EMP4,Penelitian Terapi Stem Cell,04-03-2020,04-10-2020,sedang berlangsung,55310000,EMF1013,EMPUB2025
+EMP5,Evaluasi Efektivitas Vaksin Malaria,25-03-2020,18-02-2021,sedang berlangsung,296988000,EMF1056,EMPUB2055
+EMP6,Evaluasi Efektivitas Vaksin Malaria,15-04-2020,06-03-2021,selesai,202524000,EMF1029,EMPUB2069
+EMP7,Evaluasi Pengobatan Psoriasis,06-05-2020,14-02-2021,selesai,76040000,EMF1028,EMPUB2005
+EMP8,Penelitian Terapi Stem Cell,28-05-2020,20-02-2021,sedang berlangsung,218029000,EMF1091,EMPUB2014
+EMP9,Pengembangan Formula Antihistamin,18-06-2020,17-09-2020,sedang berlangsung,105837000,EMF1054,EMPUB2087
+EMP10,Pengembangan Formula Antihistamin,09-07-2020,23-05-2021,sedang berlangsung,123017000,EMF1028,EMPUB2002
+EMP11,Penelitian Penanganan Wabah Virus,30-07-2020,18-07-2021,selesai,207389000,EMF1063,EMPUB2091
+EMP12,Studi Stabilitas Obat Baru,20-08-2020,25-07-2021,selesai,237981000,EMF1081,EMPUB2064
+EMP13,Penelitian Terapi Stem Cell,10-09-2020,18-04-2021,selesai,164326000,EMF1060,EMPUB2099
+EMP14,Evaluasi Efektivitas Vaksin Malaria,02-10-2020,28-09-2021,selesai,39224000,EMF1069,EMPUB2098
+EMP15,Studi Perbandingan Efikasi Analgesik,23-10-2020,07-04-2021,selesai,240222000,EMF1083,EMPUB2087
+EMP16,Studi Bioekivalensi untuk Obat Generik,13-11-2020,29-09-2021,selesai,204571000,EMF1072,EMPUB2058
+EMP17,Pengembangan Antidepresan Generasi Baru,04-12-2020,05-02-2021,sedang berlangsung,276318000,EMF1079,EMPUB2024
+EMP18,Studi Perbandingan Efikasi Analgesik,25-12-2020,01-09-2021,selesai,29624000,EMF1048,EMPUB2045
+EMP19,Pengembangan Obat Anti-Tuberculosis,15-01-2021,11-03-2021,selesai,16465000,EMF1052,EMPUB2014
+EMP20,Penelitian Terapi Stem Cell,06-02-2021,14-05-2021,sedang berlangsung,4852000,EMF1092,EMPUB2077
+EMP21,Studi Stabilitas Obat Baru,27-02-2021,30-03-2021,sedang berlangsung,79676000,EMF1092,EMPUB2086
+EMP22,Pengembangan Teknologi Nano dalam Farmasi,20-03-2021,14-12-2021,sedang berlangsung,184837000,EMF1096,EMPUB2032
+EMP23,Pengembangan Obat Anti-Tuberculosis,10-04-2021,17-02-2022,selesai,174324000,EMF1057,EMPUB2091
+EMP24,Penelitian Penggunaan AI dalam Diagnosis,01-05-2021,29-09-2021,selesai,106023000,EMF1094,EMPUB2072
+EMP25,Pengembangan Antidepresan Generasi Baru,22-05-2021,28-02-2022,selesai,267375000,EMF1039,EMPUB2038
+EMP26,Evaluasi Efektivitas Vaksin Malaria,12-06-2021,10-06-2022,sedang berlangsung,77095000,EMF1090,EMPUB2083
+EMP27,Evaluasi Pengobatan Psoriasis,04-07-2021,26-04-2022,sedang berlangsung,36838000,EMF1078,EMPUB2020
+EMP28,Evaluasi Terapi Komplementer untuk Diabetes,25-07-2021,15-01-2022,selesai,66258000,EMF1061,EMPUB2024
+EMP29,Penelitian Obat Anti-Aging,15-08-2021,02-12-2021,sedang berlangsung,94100000,EMF1057,EMPUB2071
+EMP30,Pengembangan Teknologi Nano dalam Farmasi,05-09-2021,02-09-2022,sedang berlangsung,44333000,EMF1005,EMPUB2027
+EMP31,Pengembangan Obat Anti-Tuberculosis,26-09-2021,08-06-2022,sedang berlangsung,222812000,EMF1076,EMPUB2037
+EMP32,Penelitian Penggunaan AI dalam Diagnosis,17-10-2021,24-03-2022,sedang berlangsung,235955000,EMF1025,EMPUB2095
+EMP33,Penelitian Penanganan Wabah Virus,08-11-2021,15-05-2022,sedang berlangsung,208855000,EMF1079,EMPUB2082
+EMP34,Penelitian Obat Anti-Aging,29-11-2021,14-09-2022,sedang berlangsung,32064000,EMF1093,EMPUB2016
+EMP35,Studi Bioekivalensi untuk Obat Generik,20-12-2021,30-07-2022,sedang berlangsung,299877000,EMF1037,EMPUB2054
+EMP36,Pengembangan Teknologi Nano dalam Farmasi,10-01-2022,30-11-2022,sedang berlangsung,244106000,EMF1044,EMPUB2096
+EMP37,Studi Kombinasi Obat untuk Hipertensi,31-01-2022,02-07-2022,sedang berlangsung,202403000,EMF1060,EMPUB2052
+EMP38,Studi Stabilitas Obat Baru,21-02-2022,29-05-2022,sedang berlangsung,221193000,EMF1015,EMPUB2073
+EMP39,Evaluasi Pengobatan Psoriasis,15-03-2022,19-09-2022,selesai,215808000,EMF1092,EMPUB2005
+EMP40,Penelitian Penanganan Wabah Virus,05-04-2022,06-02-2023,sedang berlangsung,153571000,EMF1041,EMPUB2066
+EMP41,Pengembangan Antidepresan Generasi Baru,26-04-2022,21-06-2022,selesai,165649000,EMF1063,EMPUB2080
+EMP42,Pengembangan Antidepresan Generasi Baru,17-05-2022,26-06-2022,sedang berlangsung,40783000,EMF1007,EMPUB2094
+EMP43,Pengembangan Antidepresan Generasi Baru,07-06-2022,28-05-2023,sedang berlangsung,100509000,EMF1002,EMPUB2050
+EMP44,Pengembangan Teknologi Nano dalam Farmasi,28-06-2022,02-09-2022,sedang berlangsung,214865000,EMF1046,EMPUB2002
+EMP45,Penelitian Terapi Stem Cell,20-07-2022,03-01-2023,selesai,232008000,EMF1075,EMPUB2089
+EMP46,Penelitian Obat Anti-Aging,10-08-2022,05-05-2023,sedang berlangsung,230211000,EMF1052,EMPUB2032
+EMP47,Evaluasi Terapi Komplementer untuk Diabetes,31-08-2022,19-05-2023,sedang berlangsung,91706000,EMF1066,EMPUB2007
+EMP48,Pengembangan Antidepresan Generasi Baru,21-09-2022,15-12-2022,selesai,37470000,EMF1025,EMPUB2089
+EMP49,Penelitian Penggunaan AI dalam Diagnosis,12-10-2022,28-02-2023,selesai,9868000,EMF1037,EMPUB2085
+EMP50,Studi Kombinasi Obat untuk Hipertensi,02-11-2022,09-02-2023,sedang berlangsung,17038000,EMF1003,EMPUB2036
+EMP51,Studi Stabilitas Obat Baru,23-11-2022,15-09-2023,selesai,133589000,EMF1025,EMPUB2066
+EMP52,Penelitian Obat Anti-Aging,15-12-2022,15-09-2023,selesai,245962000,EMF1084,EMPUB2073
+EMP53,Pengembangan Formula Antihistamin,05-01-2023,21-10-2023,selesai,246407000,EMF1064,EMPUB2011
+EMP54,Studi Bioekivalensi untuk Obat Generik,26-01-2023,05-04-2023,selesai,293655000,EMF1000,EMPUB2035
+EMP55,Penelitian Penggunaan AI dalam Diagnosis,16-02-2023,24-04-2023,selesai,118794000,EMF1052,EMPUB2042
+EMP56,Studi Stabilitas Obat Baru,09-03-2023,30-08-2023,selesai,172847000,EMF1081,EMPUB2039
+EMP57,Pengembangan Teknologi Nano dalam Farmasi,30-03-2023,04-02-2024,sedang berlangsung,214682000,EMF1046,EMPUB2052
+EMP58,Penelitian Penanganan Wabah Virus,21-04-2023,11-01-2024,sedang berlangsung,206673000,EMF1099,EMPUB2093
+EMP59,Pengembangan Formula Antihistamin,12-05-2023,08-04-2024,sedang berlangsung,39492000,EMF1084,EMPUB2084
+EMP60,Pengembangan Formula Antihistamin,02-06-2023,07-11-2023,selesai,3059000,EMF1017,EMPUB2020
+EMP61,Pengembangan Teknologi Nano dalam Farmasi,23-06-2023,16-09-2023,selesai,135242000,EMF1054,EMPUB2073
+EMP62,Pengembangan Antidepresan Generasi Baru,14-07-2023,19-06-2024,selesai,5059000,EMF1035,EMPUB2007
+EMP63,Studi Perbandingan Efikasi Analgesik,04-08-2023,01-03-2024,sedang berlangsung,36660000,EMF1078,EMPUB2052
+EMP64,Penelitian Obat Anti-Aging,26-08-2023,18-04-2024,sedang berlangsung,83109000,EMF1060,EMPUB2069
+EMP65,Pengembangan Obat Anti-Tuberculosis,16-09-2023,28-05-2024,sedang berlangsung,90309000,EMF1050,EMPUB2057
+EMP66,Penelitian Terapi Stem Cell,07-10-2023,01-07-2024,sedang berlangsung,159441000,EMF1046,EMPUB2062
+EMP67,Penelitian Terapi Stem Cell,28-10-2023,01-10-2024,sedang berlangsung,153879000,EMF1023,EMPUB2089
+EMP68,Penelitian Obat Anti-Aging,18-11-2023,26-08-2024,selesai,259077000,EMF1065,EMPUB2083
+EMP69,Evaluasi Terapi Komplementer untuk Diabetes,09-12-2023,08-01-2024,selesai,254791000,EMF1000,EMPUB2016
+EMP70,Studi Stabilitas Obat Baru,31-12-2023,20-06-2024,selesai,205258000,EMF1032,EMPUB2028

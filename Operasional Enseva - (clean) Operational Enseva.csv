@@ -1,0 +1,81 @@
+product_id,product_name,product_category,product_unit_price,product_inventory,supplier_id,purchase_order_id,sales_order_id
+EN-P1001,Protective Mask Dankos,Produk Kebersihan,920000,383,EN-S1065,EN-PO10077,EN-SO20044
+EN-P1002,Digital Thermometer Dankos,Peralatan Medis,40000,442,EN-S1062,EN-PO10080,EN-SO20060
+EN-P1003,Hand Sanitizer Dankos,Produk Kebersihan,432000,88,EN-S1021,EN-PO10063,EN-SO20067
+EN-P1004,Zinc Dankos,Suplemen Kesehatan,132000,99,EN-S1013,EN-PO10097,EN-SO20042
+EN-P1005,Vitamin C Dankos,Suplemen Kesehatan,362000,424,EN-S1022,EN-PO10030,EN-SO20022
+EN-P1006,Zinc Dankos,Suplemen Kesehatan,737000,64,EN-S1027,EN-PO10032,EN-SO20041
+EN-P1007,Protective Mask Dankos,Produk Kebersihan,387000,323,EN-S1025,EN-PO10072,EN-SO20068
+EN-P1008,Antiseptic Soap Dankos,Produk Kebersihan,113000,95,EN-S1017,EN-PO10044,EN-SO20041
+EN-P1009,Hand Sanitizer Dankos,Produk Kebersihan,906000,427,EN-S1099,EN-PO10040,EN-SO20039
+EN-P1010,Portable Nebulizer Dankos,Peralatan Medis,687000,235,EN-S1032,EN-PO10067,EN-SO20080
+EN-P1011,Digital Thermometer Dankos,Peralatan Medis,204000,414,EN-S1093,EN-PO10024,EN-SO20042
+EN-P1012,Herbal Immune Booster Dankos,Suplemen Kesehatan,498000,169,EN-S1014,EN-PO10078,EN-SO20067
+EN-P1013,Zinc Dankos,Suplemen Kesehatan,180000,383,EN-S1085,EN-PO10067,EN-SO20098
+EN-P1014,Protective Mask Dankos,Produk Kebersihan,583000,204,EN-S1052,EN-PO10050,EN-SO20013
+EN-P1015,Digital Thermometer Dankos,Peralatan Medis,796000,337,EN-S1025,EN-PO10048,EN-SO20025
+EN-P1016,Herbal Immune Booster Dankos,Suplemen Kesehatan,394000,163,EN-S1060,EN-PO10035,EN-SO20038
+EN-P1017,Digital Thermometer Dankos,Peralatan Medis,183000,492,EN-S1083,EN-PO10052,EN-SO20075
+EN-P1018,Digital Thermometer Dankos,Peralatan Medis,604000,177,EN-S1068,EN-PO10031,EN-SO20005
+EN-P1019,Hand Sanitizer Dankos,Produk Kebersihan,1000000,73,EN-S1089,EN-PO10001,EN-SO20092
+EN-P1020,Zinc Dankos,Suplemen Kesehatan,465000,343,EN-S1024,EN-PO10064,EN-SO20022
+EN-P1021,Portable Nebulizer Dankos,Peralatan Medis,848000,92,EN-S1057,EN-PO10031,EN-SO20039
+EN-P1022,Hand Sanitizer Dankos,Produk Kebersihan,251000,271,EN-S1063,EN-PO10018,EN-SO20073
+EN-P1023,Portable Nebulizer Dankos,Peralatan Medis,831000,415,EN-S1012,EN-PO10066,EN-SO20014
+EN-P1024,Hand Sanitizer Dankos,Produk Kebersihan,385000,139,EN-S1018,EN-PO10015,EN-SO20047
+EN-P1025,Zinc Dankos,Suplemen Kesehatan,394000,259,EN-S1099,EN-PO10043,EN-SO20071
+EN-P1026,Blood Pressure Monitor Dankos,Peralatan Medis,436000,204,EN-S1026,EN-PO10039,EN-SO20001
+EN-P1027,Herbal Immune Booster Dankos,Suplemen Kesehatan,306000,96,EN-S1077,EN-PO10020,EN-SO20033
+EN-P1028,Vitamin C Dankos,Suplemen Kesehatan,305000,159,EN-S1025,EN-PO10001,EN-SO20070
+EN-P1029,Protective Mask Dankos,Produk Kebersihan,802000,452,EN-S1000,EN-PO10000,EN-SO20060
+EN-P1030,Hand Sanitizer Dankos,Produk Kebersihan,178000,330,EN-S1022,EN-PO10045,EN-SO20019
+EN-P1031,Zinc Dankos,Suplemen Kesehatan,998000,217,EN-S1014,EN-PO10082,EN-SO20015
+EN-P1032,Hand Sanitizer Dankos,Produk Kebersihan,594000,89,EN-S1074,EN-PO10029,EN-SO20097
+EN-P1033,Herbal Immune Booster Dankos,Suplemen Kesehatan,937000,184,EN-S1039,EN-PO10026,EN-SO20098
+EN-P1034,Hand Sanitizer Dankos,Produk Kebersihan,270000,412,EN-S1075,EN-PO10007,EN-SO20053
+EN-P1035,Blood Pressure Monitor Dankos,Peralatan Medis,39000,118,EN-S1019,EN-PO10052,EN-SO20069
+EN-P1036,Digital Thermometer Dankos,Peralatan Medis,685000,162,EN-S1009,EN-PO10003,EN-SO20020
+EN-P1037,Hand Sanitizer Dankos,Produk Kebersihan,941000,89,EN-S1099,EN-PO10021,EN-SO20035
+EN-P1038,Portable Nebulizer Dankos,Peralatan Medis,58000,352,EN-S1071,EN-PO10083,EN-SO20038
+EN-P1039,Zinc Dankos,Suplemen Kesehatan,936000,327,EN-S1053,EN-PO10079,EN-SO20049
+EN-P1040,Herbal Immune Booster Dankos,Suplemen Kesehatan,313000,373,EN-S1066,EN-PO10062,EN-SO20081
+EN-P1041,Antiseptic Soap Dankos,Produk Kebersihan,266000,123,EN-S1027,EN-PO10069,EN-SO20058
+EN-P1042,Portable Nebulizer Dankos,Peralatan Medis,509000,278,EN-S1088,EN-PO10067,EN-SO20012
+EN-P1043,Vitamin C Dankos,Suplemen Kesehatan,857000,74,EN-S1002,EN-PO10008,EN-SO20075
+EN-P1044,Antiseptic Soap Dankos,Produk Kebersihan,657000,249,EN-S1071,EN-PO10072,EN-SO20053
+EN-P1045,Antiseptic Soap Dankos,Produk Kebersihan,446000,82,EN-S1085,EN-PO10043,EN-SO20024
+EN-P1046,Vitamin C Dankos,Suplemen Kesehatan,787000,318,EN-S1019,EN-PO10095,EN-SO20095
+EN-P1047,Antiseptic Soap Dankos,Produk Kebersihan,34000,392,EN-S1014,EN-PO10089,EN-SO20022
+EN-P1048,Blood Pressure Monitor Dankos,Peralatan Medis,829000,499,EN-S1013,EN-PO10076,EN-SO20033
+EN-P1049,Digital Thermometer Dankos,Peralatan Medis,351000,185,EN-S1097,EN-PO10072,EN-SO20024
+EN-P1050,Antiseptic Soap Dankos,Produk Kebersihan,357000,308,EN-S1082,EN-PO10058,EN-SO20030
+EN-P1051,Hand Sanitizer Dankos,Produk Kebersihan,637000,278,EN-S1022,EN-PO10068,EN-SO20087
+EN-P1052,Portable Nebulizer Dankos,Peralatan Medis,853000,70,EN-S1061,EN-PO10058,EN-SO20000
+EN-P1053,Vitamin C Dankos,Suplemen Kesehatan,408000,437,EN-S1081,EN-PO10081,EN-SO20087
+EN-P1054,Antiseptic Soap Dankos,Produk Kebersihan,859000,135,EN-S1011,EN-PO10063,EN-SO20035
+EN-P1055,Blood Pressure Monitor Dankos,Peralatan Medis,455000,144,EN-S1028,EN-PO10092,EN-SO20045
+EN-P1056,Herbal Immune Booster Dankos,Suplemen Kesehatan,306000,469,EN-S1044,EN-PO10052,EN-SO20063
+EN-P1057,Digital Thermometer Dankos,Peralatan Medis,790000,323,EN-S1002,EN-PO10037,EN-SO20008
+EN-P1058,Hand Sanitizer Dankos,Produk Kebersihan,37000,323,EN-S1003,EN-PO10047,EN-SO20041
+EN-P1059,Vitamin C Dankos,Suplemen Kesehatan,438000,489,EN-S1010,EN-PO10051,EN-SO20014
+EN-P1060,Antiseptic Soap Dankos,Produk Kebersihan,769000,221,EN-S1031,EN-PO10023,EN-SO20062
+EN-P1061,Zinc Dankos,Suplemen Kesehatan,906000,230,EN-S1091,EN-PO10070,EN-SO20010
+EN-P1062,Protective Mask Dankos,Produk Kebersihan,448000,145,EN-S1096,EN-PO10000,EN-SO20029
+EN-P1063,Portable Nebulizer Dankos,Peralatan Medis,586000,331,EN-S1029,EN-PO10023,EN-SO20030
+EN-P1064,Vitamin C Dankos,Suplemen Kesehatan,154000,153,EN-S1055,EN-PO10022,EN-SO20037
+EN-P1065,Vitamin C Dankos,Suplemen Kesehatan,257000,267,EN-S1029,EN-PO10087,EN-SO20097
+EN-P1066,Vitamin C Dankos,Suplemen Kesehatan,868000,463,EN-S1033,EN-PO10059,EN-SO20039
+EN-P1067,Zinc Dankos,Suplemen Kesehatan,411000,229,EN-S1041,EN-PO10008,EN-SO20010
+EN-P1068,Digital Thermometer Dankos,Peralatan Medis,709000,117,EN-S1065,EN-PO10002,EN-SO20067
+EN-P1069,Blood Pressure Monitor Dankos,Peralatan Medis,228000,225,EN-S1049,EN-PO10018,EN-SO20054
+EN-P1070,Herbal Immune Booster Dankos,Suplemen Kesehatan,898000,454,EN-S1025,EN-PO10003,EN-SO20077
+EN-P1071,Hand Sanitizer Dankos,Produk Kebersihan,513000,177,EN-S1085,EN-PO10014,EN-SO20045
+EN-P1072,Digital Thermometer Dankos,Peralatan Medis,105000,249,EN-S1048,EN-PO10079,EN-SO20073
+EN-P1073,Digital Thermometer Dankos,Peralatan Medis,559000,58,EN-S1053,EN-PO10067,EN-SO20068
+EN-P1074,Vitamin C Dankos,Suplemen Kesehatan,466000,457,EN-S1048,EN-PO10034,EN-SO20023
+EN-P1075,Herbal Immune Booster Dankos,Suplemen Kesehatan,989000,164,EN-S1000,EN-PO10081,EN-SO20081
+EN-P1076,Herbal Immune Booster Dankos,Suplemen Kesehatan,889000,494,EN-S1038,EN-PO10064,EN-SO20064
+EN-P1077,Portable Nebulizer Dankos,Peralatan Medis,987000,362,EN-S1007,EN-PO10044,EN-SO20081
+EN-P1078,Antiseptic Soap Dankos,Produk Kebersihan,177000,187,EN-S1021,EN-PO10042,EN-SO20081
+EN-P1079,Vitamin C Dankos,Suplemen Kesehatan,437000,96,EN-S1005,EN-PO10034,EN-SO20032
+EN-P1080,Antiseptic Soap Dankos,Produk Kebersihan,848000,494,EN-S1015,EN-PO10078,EN-SO20093

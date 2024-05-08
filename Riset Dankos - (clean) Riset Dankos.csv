@@ -1,0 +1,71 @@
+project_id,project_name,project_start_date,project_end_date,project_status,project_budget,researcher_id,publication_id
+DP1,Evaluasi Obat Anti-Inflamasi Baru,01-01-2020,04-06-2020,selesai,28902000,DR1027,PU2054
+DP2,Optimalisasi Proses Produksi Obat Biotech,22-01-2020,20-01-2021,selesai,200484000,DR1018,PU2059
+DP3,Penelitian Bioavailabilitas Substansi Aktif,12-02-2020,11-05-2020,sedang berlangsung,94283000,DR1086,PU2084
+DP4,Pengembangan Sistem Pemantauan Kesehatan Digital,04-03-2020,04-10-2020,sedang berlangsung,155975000,DR1001,PU2098
+DP5,Penelitian Ketahanan Antibiotik,25-03-2020,18-02-2021,sedang berlangsung,197903000,DR1034,PU2041
+DP6,Optimasi Formula Dermatologi,15-04-2020,06-03-2021,selesai,187119000,DR1002,PU2035
+DP7,Penelitian Bioavailabilitas Substansi Aktif 2,06-05-2020,14-02-2021,selesai,29304000,DR1017,PU2056
+DP8,Pengembangan Antibiotik Spektrum Lebar,28-05-2020,20-02-2021,sedang berlangsung,156622000,DR1085,PU2013
+DP9,Optimasi Formula Dermatologi 2,18-06-2020,17-09-2020,sedang berlangsung,292506000,DR1011,PU2011
+DP10,Penelitian Efektivitas Suplemen Nutrisi,09-07-2020,23-05-2021,sedang berlangsung,156251000,DR1093,PU2052
+DP11,Pengembangan Terapi Pengganti Hormon,30-07-2020,18-07-2021,selesai,37303000,DR1053,PU2066
+DP12,Optimalisasi Proses Produksi Obat Biotech 2,20-08-2020,25-07-2021,selesai,138445000,DR1059,PU2021
+DP13,Penelitian Efektivitas Suplemen Nutrisi 2,10-09-2020,18-04-2021,selesai,65079000,DR1082,PU2081
+DP14,Optimasi Formula Dermatologi 3,02-10-2020,28-09-2021,selesai,86102000,DR1011,PU2094
+DP15,Studi Klinis Vaksin Influenza,23-10-2020,07-04-2021,selesai,72074000,DR1083,PU2034
+DP16,Pengujian Alat Diagnostik Portabel,13-11-2020,29-09-2021,selesai,253522000,DR1003,PU2061
+DP17,Analisis Efek Samping Jangka Panjang Obat,04-12-2020,05-02-2021,sedang berlangsung,283309000,DR1083,PU2091
+DP18,Pengembangan Antibiotik Spektrum Lebar 2,25-12-2020,01-09-2021,selesai,268514000,DR1000,PU2085
+DP19,Pengembangan Terapi Pengganti Hormon 2,15-01-2021,11-03-2021,selesai,3923000,DR1093,PU2060
+DP20,Pengembangan Antibiotik Spektrum Lebar 3,06-02-2021,14-05-2021,sedang berlangsung,196244000,DR1085,PU2099
+DP21,Pengembangan Terapi Pengganti Hormon 3,27-02-2021,30-03-2021,sedang berlangsung,124078000,DR1051,PU2092
+DP22,Optimalisasi Proses Produksi Obat Biotech 3,20-03-2021,14-12-2021,sedang berlangsung,253846000,DR1091,PU2098
+DP23,Penelitian Ketahanan Antibiotik 2,10-04-2021,17-02-2022,selesai,291130000,DR1032,PU2091
+DP24,Pengembangan Terapi Pengganti Hormon 4,01-05-2021,29-09-2021,selesai,72506000,DR1086,PU2074
+DP25,Penelitian Efektivitas Suplemen Nutrisi 3,22-05-2021,28-02-2022,selesai,264982000,DR1084,PU2008
+DP26,Pengembangan Sistem Pemantauan Kesehatan Digital 2,12-06-2021,10-06-2022,sedang berlangsung,21438000,DR1099,PU2075
+DP27,Analisis Efek Samping Jangka Panjang Obat 2,04-07-2021,26-04-2022,sedang berlangsung,42172000,DR1081,PU2081
+DP28,Penelitian Ketahanan Antibiotik 3,25-07-2021,15-01-2022,selesai,296543000,DR1005,PU2027
+DP29,Pengujian Alat Diagnostik Portabel 2,15-08-2021,02-12-2021,sedang berlangsung,231488000,DR1011,PU2025
+DP30,Optimalisasi Proses Produksi Obat Biotech 4,05-09-2021,02-09-2022,sedang berlangsung,78516000,DR1069,PU2086
+DP31,Pengujian Alat Diagnostik Portabel 3,26-09-2021,08-06-2022,sedang berlangsung,150753000,DR1009,PU2036
+DP32,Penelitian Bioavailabilitas Substansi Aktif 3,17-10-2021,24-03-2022,sedang berlangsung,276757000,DR1046,PU2014
+DP33,Penelitian Ketahanan Antibiotik 4,08-11-2021,15-05-2022,sedang berlangsung,224908000,DR1074,PU2003
+DP34,Optimalisasi Proses Produksi Obat Biotech 5,29-11-2021,14-09-2022,sedang berlangsung,284518000,DR1093,PU2092
+DP35,Penelitian Ketahanan Antibiotik 5,20-12-2021,30-07-2022,sedang berlangsung,42253000,DR1032,PU2084
+DP36,Studi Pemetaan Genetik untuk Terapi Target,10-01-2022,30-11-2022,sedang berlangsung,77545000,DR1038,PU2072
+DP37,Penelitian Bioavailabilitas Substansi Aktif 4,31-01-2022,02-07-2022,sedang berlangsung,177979000,DR1042,PU2043
+DP38,Pengujian Alat Diagnostik Portabel 4,21-02-2022,29-05-2022,sedang berlangsung,292485000,DR1063,PU2099
+DP39,Penelitian Bioavailabilitas Substansi Aktif 5,15-03-2022,19-09-2022,selesai,100194000,DR1023,PU2008
+DP40,Studi Pemetaan Genetik untuk Terapi Target 2,05-04-2022,06-02-2023,sedang berlangsung,290821000,DR1040,PU2055
+DP41,Penelitian Formulasi Obat Anti-Kanker,26-04-2022,21-06-2022,selesai,151784000,DR1063,PU2017
+DP42,Penelitian Efektivitas Suplemen Nutrisi 4,17-05-2022,26-06-2022,sedang berlangsung,241403000,DR1063,PU2060
+DP43,Analisis Efek Samping Jangka Panjang Obat 3,07-06-2022,28-05-2023,sedang berlangsung,227564000,DR1031,PU2032
+DP44,Penelitian Bioavailabilitas Substansi Aktif 6,28-06-2022,02-09-2022,sedang berlangsung,107486000,DR1018,PU2098
+DP45,Penelitian Ketahanan Antibiotik 6,20-07-2022,03-01-2023,selesai,134505000,DR1040,PU2083
+DP46,Studi Pemetaan Genetik untuk Terapi Target 3,10-08-2022,05-05-2023,sedang berlangsung,228720000,DR1005,PU2027
+DP47,Evaluasi Obat Anti-Inflamasi Baru 2,31-08-2022,19-05-2023,sedang berlangsung,73025000,DR1092,PU2095
+DP48,Penelitian Efektivitas Suplemen Nutrisi 5,21-09-2022,15-12-2022,selesai,264008000,DR1079,PU2052
+DP49,Studi Interaksi Obat pada Populasi Khusus,12-10-2022,28-02-2023,selesai,103438000,DR1082,PU2050
+DP50,Penelitian Ketahanan Antibiotik 7,02-11-2022,09-02-2023,sedang berlangsung,147641000,DR1074,PU2080
+DP51,Evaluasi Obat Anti-Inflamasi Baru 3,23-11-2022,15-09-2023,selesai,235653000,DR1040,PU2091
+DP52,Pengembangan Antibiotik Spektrum Lebar 4,15-12-2022,15-09-2023,selesai,109035000,DR1025,PU2079
+DP53,Studi Klinis Vaksin Influenza 2,05-01-2023,21-10-2023,selesai,289714000,DR1068,PU2026
+DP54,Studi Pemetaan Genetik untuk Terapi Target 4,26-01-2023,05-04-2023,selesai,118749000,DR1049,PU2037
+DP55,Analisis Efek Samping Jangka Panjang Obat 4,16-02-2023,24-04-2023,selesai,68249000,DR1082,PU2024
+DP56,Evaluasi Obat Anti-Inflamasi Baru 4,09-03-2023,30-08-2023,selesai,204115000,DR1086,PU2056
+DP57,Analisis Efek Samping Jangka Panjang Obat 5,30-03-2023,04-02-2024,sedang berlangsung,109398000,DR1046,PU2040
+DP58,Penelitian Efektivitas Suplemen Nutrisi 6,21-04-2023,11-01-2024,sedang berlangsung,260654000,DR1013,PU2052
+DP59,Pengembangan Terapi Pengganti Hormon 5,12-05-2023,08-04-2024,sedang berlangsung,205808000,DR1021,PU2038
+DP60,Studi Klinis Vaksin Influenza 3,02-06-2023,07-11-2023,selesai,133767000,DR1080,PU2019
+DP61,Optimasi Formula Dermatologi 4,23-06-2023,16-09-2023,selesai,290142000,DR1081,PU2044
+DP62,Analisis Efek Samping Jangka Panjang Obat 6,14-07-2023,19-06-2024,selesai,220641000,DR1094,PU2020
+DP63,Pengembangan Terapi Pengganti Hormon 6,04-08-2023,01-03-2024,sedang berlangsung,86217000,DR1049,PU2063
+DP64,Penelitian Formulasi Obat Anti-Kanker 2,26-08-2023,18-04-2024,sedang berlangsung,162132000,DR1051,PU2021
+DP65,Studi Klinis Vaksin Influenza 4,16-09-2023,28-05-2024,sedang berlangsung,144988000,DR1014,PU2065
+DP66,Penelitian Bioavailabilitas Substansi Aktif 7,07-10-2023,01-07-2024,sedang berlangsung,27725000,DR1030,PU2068
+DP67,Studi Klinis Vaksin Influenza 5,28-10-2023,01-10-2024,sedang berlangsung,50326000,DR1010,PU2092
+DP68,Pengembangan Antibiotik Spektrum Lebar 5,18-11-2023,26-08-2024,selesai,237566000,DR1085,PU2018
+DP69,Pengembangan Terapi Pengganti Hormon 7,09-12-2023,08-01-2024,selesai,290920000,DR1004,PU2068
+DP70,Pengembangan Sistem Pemantauan Kesehatan Digital 3,31-12-2023,20-06-2024,selesai,99245000,DR1007,PU2016
